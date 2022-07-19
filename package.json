@@ -1,0 +1,24 @@
+{
+  "name": "landing-async",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "deploy": "gh-pages -d src"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JuanDavidRR/landing-async.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JuanDavidRR/landing-async/issues"
+  },
+  "homepage": "https://github.com/JuanDavidRR/landing-async#readme",
+  "devDependencies": {
+    "gh-pages": "^4.0.0"
+  }
+
+}
